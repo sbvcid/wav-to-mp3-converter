@@ -4,7 +4,7 @@ from pydub import AudioSegment
 from tqdm import tqdm
 import logging
 import sys
-import functools  # 加入這一行
+import functools  
 
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
