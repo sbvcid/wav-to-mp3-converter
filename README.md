@@ -1,4 +1,4 @@
-# 我的項目 將WAV轉換成MP3 (wav-to-mp3-converter)
+# 項目：將WAV轉換成MP3 (wav-to-mp3-converter)
 
 這個項目用來將當前資料夾中，以及子資料夾的WAV檔案轉換成MP3檔案
 1.py是原始代碼，在dist中的1.exe是打包後的執行檔
