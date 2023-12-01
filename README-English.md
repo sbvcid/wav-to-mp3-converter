@@ -37,3 +37,4 @@ This tool simplifies the process of converting multiple WAV files, both in the c
     - `bitrate`: Specify MP3 bitrate (default: "320k").
     - `sample_rate`: Specify MP3 sample rate (default: "48000").
     - Example: `./convert.exe --bitrate 192k --sample_rate 44100`
+ 
